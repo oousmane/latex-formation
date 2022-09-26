@@ -1,0 +1,64 @@
+---
+title: "Formation  {{< latex >}} | Atelier pratique"
+lang: fr
+toc: true
+links-as-notes: true
+description: Formation en atelier pratique sur la rédaction scientifique avec le logiciel {{< latex >}}. Elle couvrira les bases du code {{< latex >}} pour éditer des documents de qualités excellentes tels que les rapports,mémoires, thèses ou livres.
+author: "Cercle Des Chercheurs"
+image: "image/latex-poster.jpeg"
+editor: visual
+---
+
+![](image/latex-project-logo.svg)
+
+## Introduction
+
+{{< latex >}} se caractérise par la qualité typographique et la portabilité des documents générés ainsi que par sa capacité à gérer des documents de grande taille et pour la préparation de présentations. Ceci en fait un outil très intéressant pour la rédaction d’un manuscrit de thèse. En revanche, sa prise en main demande un effort non-négligeable. C’est la raison de cette formation. {{< latex >}} est particulièrement utilisé dans les domaines techniques et scientifiques pour la production de documents de taille moyenne (tels que des articles) ou importante (thèses ou livres, par exemple)
+
+## Pourquoi apprendre {{< latex >}}
+
+Trois gros avantage de {{< latex >}}
+
+-   Séparation de la forme et du fond :Une fois le texte rédigé, la mise en forme est prise automatiquement en charge selon les instructions choisies et indiquées au moyen des commandes ou balises et si besoin vous pouvez aisément la modifier sans avoir à remanier le texte rédigé.
+
+-   Facilité d'intégration des formules mathématiques,
+
+-   Outil gratuit
+
+## Objectifs pédagogiques
+
+-   Se familiariser avec {{< latex >}}
+
+-   Connaître toutes les structures à suivre et les bonnes pratiques pour réaliser la rédaction avec {{< latex >}}
+
+-   Pouvoir rédiger des articles ou des thèses scientifiques de qualité avec {{< latex >}}
+
+## Prérequis
+
+*Il n'est pas demandé de connaître* {{< latex >}} *pour suivre cette formation.*
+
+-   Avoir les notions de base du traitement de texte
+
+## Public cible
+
+-   Des chercheurs et des étudiants qui souhaitent rédiger des mémoires, des articles ou des thèses avec {{< latex >}}
+
+-   Des auteurs des livres scientifiques qui veulent faire publier leurs œuvres par les grands éditeurs
+
+## Lieu et dates et frais
+
+La formation se déroulera les **14 et 15 Octobre 2022 de 08 heures à 16 heures** à l'**UFR SEA** sise à l'**Université Joseph KI-ZERBO**
+
+Les frais de participations sont fixés à cinq mille (5000) francs CFA.
+
+## Inscription
+
+Le formulaire google d'inscription est disponible [ici](https://docs.google.com/forms/d/e/1FAIpQLSejRzEUa4UuX47tF2OwT71iSip-P10aprrX2YqwyVoUfUyicg/viewform "S'incrire")
+
+## Formateur
+
+La formation sera assurée Adama OUEDRAOGO, PhD. Il est Enseignant-Chercheur, Expert en protection contre les Rayonnements non ionisants
+
+[![](image/latex-formateur-ouedraogo.png)](https://www.researchgate.net/profile/AdamaOuedraogo3/)
+
+:   
